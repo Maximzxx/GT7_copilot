@@ -1,0 +1,10 @@
+build/
+.qtcreator/
+*.user
+*.user.*
+CMakeFiles/
+CMakeCache.txt
+__pycache__/
+*.py[cod]
+.venv/
+venv/
